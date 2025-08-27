@@ -49,11 +49,11 @@
             ]
           },
           {
-            "group": "AI tools",
+            "icon": "fingerprint",
+            "group": "Essentials",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "essentials/privacy-policy",
+              "essentials/terms-of-service"
             ]
           }
         ]
