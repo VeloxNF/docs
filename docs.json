@@ -30,12 +30,12 @@
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Users",
             "pages": [
-              "billing/markdown",
-              "billing/code",
-              "billing/images",
-              "billing/reusable-snippets"
+              "users/login",
+              "users/personal-details",
+              "users/reset-password",
+              "users/open-tickets"
             ]
           },
           {
