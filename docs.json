@@ -25,7 +25,8 @@
             "group": "Billing",
             "pages": [
               "billing/payment-channels",
-              "billing/server-upgrade"
+              "billing/server-upgrade",
+              "billing/server-cancelled"
             ]
           },
           {
