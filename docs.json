@@ -12,6 +12,7 @@
     "tabs": [
       {
         "tab": "Home",
+        "icon": "house",
         "groups": [
           {
             "group": "INTRODUCTION",
