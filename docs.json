@@ -22,6 +22,7 @@
             ]
           },
           {
+            "icon": "bags-shopping",
             "group": "Billing",
             "pages": [
               "billing/payment-channels",
@@ -30,6 +31,7 @@
             ]
           },
           {
+            "icon": "user",
             "group": "Users",
             "pages": [
               "users/login",
