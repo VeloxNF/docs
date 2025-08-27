@@ -21,7 +21,7 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Payment Channels",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
